@@ -18,7 +18,7 @@ Prasanna- Product Page: Create a dynamic, visually appealing product page. Showc
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Product-Page/
+    https://prasannad02.github.io/Product-page/
 ## Getting Started
 
 To get started with Prasanna- Product Page, follow these steps:
